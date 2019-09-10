@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup
 
-Run `yarn` to install all dependencies.
+Run `cp .env.test .env && yarn` to install all dependencies.
 
 ### In the project directory, you can run:
 
