@@ -1,8 +1,14 @@
+# Currency Exchange Web App - React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
 
 Run `cp .env.test .env && yarn` to install all dependencies.
+
+Then run:
+
+`npm start`
 
 ### In the project directory, you can run:
 
